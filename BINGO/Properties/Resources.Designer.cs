@@ -63,16 +63,6 @@ namespace BINGO.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap kuglica {
-            get {
-                object obj = ResourceManager.GetObject("kuglica", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap ljubicasta {
             get {
                 object obj = ResourceManager.GetObject("ljubicasta", resourceCulture);
